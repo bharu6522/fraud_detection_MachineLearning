@@ -59,4 +59,4 @@ fraud['Amount'].describe()
 df.groupby('Class').mean()
 # we counted mean value for each column diffrentiating them according to class
 
-#there is no missing vlaue /Nan vlaue so no need to do cleaning
+#there is no missing vlaue /Nan vlaue so no need to do further cleaning
